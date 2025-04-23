@@ -64,7 +64,7 @@ Learn how to build a game like this from scratch — for FREE!
 ## 🔗 Published On
 
 - ✅ **Google Play Store** *(Previously available)*  
-- ✅ **itch.io** *[(Optional)](https://xzyadx.itch.io/golf-challenge)*
+- ✅ **itch.io** *[(PLAY)](https://xzyadx.itch.io/golf-challenge)*
 
 ---
 
