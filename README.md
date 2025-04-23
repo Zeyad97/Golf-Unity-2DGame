@@ -7,7 +7,7 @@ _Offline Golf Game for Mobile & PC — Built with Unity | Includes Free Course_
 
 Welcome to **Unity Golf**, a fun and relaxing **drag-and-release golf game** inspired by classics like _Golf With Friends_.
 
-Challenge yourself to master the angles and physics as you aim, drag, and shoot the golf ball into the hole — all in a smooth, offline experience with charming visuals and smart mechanics. (Thanks To MuddyWolf)
+Challenge yourself to master the angles and physics as you aim, drag, and shoot the golf ball into the hole — all in a smooth, offline experience with charming visuals and smart mechanics. (THANKS TO MUDDYWOLF)
 
 ---
 
