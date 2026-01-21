@@ -43,7 +43,7 @@ Challenge yourself to master the angles and physics as you aim, drag, and shoot 
 ## 🎥 Free Course
 
 Learn how to build a game like this from scratch — for FREE!  
-> 📺 [Watch the Course Here](https://youtube.com/@xzyad?si=FCmWf08qnlDgXE4t) 
+> 📺 [Watch the Course Here]([https://youtube.com/@xzyad?si=FCmWf08qnlDgXE4t](https://www.youtube.com/watch?v=BLQEJ9BLfFI&lc=Ugw8YdD2Hv7dIXM_gfB4AaABAg)) 
 
 ---
 
